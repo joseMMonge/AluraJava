@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\x\Documents\COURSES\ALURA_ONE_FOUNDATION\etapa 3 - Especializacion Back End\AluraJava\.metadata\.plugins\org.eclipse.jdt.core
+1696264553.index
+1482826024.index
+1865797976.index
